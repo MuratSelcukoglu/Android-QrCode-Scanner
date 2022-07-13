@@ -1,0 +1,6 @@
+module Pods_androidRNqr {
+  umbrella header "Pods-androidRNqr-umbrella.h"
+
+  export *
+  module * { export * }
+}

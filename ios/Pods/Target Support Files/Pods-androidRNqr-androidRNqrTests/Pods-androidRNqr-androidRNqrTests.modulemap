@@ -1,0 +1,6 @@
+module Pods_androidRNqr_androidRNqrTests {
+  umbrella header "Pods-androidRNqr-androidRNqrTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
